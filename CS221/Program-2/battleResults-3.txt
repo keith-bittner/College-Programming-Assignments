@@ -1,0 +1,31 @@
+Our_Hero attacks Evil_Guy for 9 damage. New HP = 191
+Evil_Guy casts Fireball! Our_Hero takes 5 damage. New HP = 195
+Our_Hero chugs a potion and is fully recovered! New HP= 200
+Our_Hero attacks Evil_Guy for 16 damage. New HP = 184
+Our_Hero casts Thor_Smash! Evil_Guy takes 34 damage. New HP = 157
+Our_Hero attacks Evil_Guy for 11 damage. New HP = 173
+Our_Hero chugs a potion and is fully recovered! New HP= 200
+Our_Hero attacks Evil_Guy for 18 damage. New HP = 182
+Our_Hero casts Thor_Smash! Evil_Guy takes 16 damage. New HP = 141
+Evil_Guy casts Fireball! Our_Hero takes 6 damage. New HP = 176
+Our_Hero casts Thor_Smash! Evil_Guy takes 45 damage. New HP = 96
+Our_Hero attacks Evil_Guy for 3 damage. New HP = 173
+Our_Hero chugs a potion and recovers 23 HP! New HP= 196
+Our_Hero chugs a potion and is fully recovered! New HP= 200
+Our_Hero attacks Evil_Guy for 10 damage. New HP = 190
+Our_Hero casts Thor_Smash! Evil_Guy takes 14 damage. New HP = 82
+Evil_Guy casts Fireball! Our_Hero takes 45 damage. New HP = 145
+Our_Hero casts Thor_Smash! Evil_Guy takes 43 damage. New HP = 39
+Our_Hero attacks Evil_Guy for 2 damage. New HP = 143
+Our_Hero attacks Evil_Guy for 23 damage. New HP = 16
+Our_Hero attacks Evil_Guy for 12 damage. New HP = 131
+Our_Hero is out of potions and wasted a turn
+Evil_Guy chugs a potion and recovers 31 HP! New HP= 47
+Our_Hero attacks Evil_Guy for 18 damage. New HP = 29
+Evil_Guy casts Fireball! Our_Hero takes 8 damage. New HP = 123
+Our_Hero is out of potions and wasted a turn
+Evil_Guy chugs a potion and recovers 15 HP! New HP= 44
+Our_Hero is out of potions and wasted a turn
+Our_Hero attacks Evil_Guy for 24 damage. New HP = 99
+Our_Hero casts Thor_Smash! Evil_Guy takes 44 damage. New HP = 0
+Our_Hero has eliminated Evil_Guy. Let our hero's name become legend!

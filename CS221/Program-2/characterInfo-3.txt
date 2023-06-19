@@ -1,0 +1,5 @@
+Our_Hero 200 Thor_Smash
+Evil_Guy 200 Fireball
+1 25
+5 50
+10 100
